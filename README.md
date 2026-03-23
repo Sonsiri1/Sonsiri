@@ -43,9 +43,4 @@
 
 ---
 
-### 📊 GitHub Stats
-<div align="center">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=Sonsiri1&show_icons=true&theme=tokyonight)
-
 </div>
