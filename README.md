@@ -47,6 +47,5 @@
 <div align="center">
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=Sonsiri1&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sonsiri1&layout=compact&theme=tokyonight)
 
 </div>
