@@ -32,6 +32,3 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
 </div>
-
-### 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=Sonsiri1_Sonsiri1&show_icons=true&theme=tokyonight)
