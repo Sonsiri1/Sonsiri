@@ -1,6 +1,6 @@
 <div align="center">
 
-# สวัสดี 👋 ฉันชื่อ Sonsiri1
+# สวัสดี 👋 ฉันชื่อ Dream
 
 🎓 นักศึกษา / นักพัฒนา | 📍 Thailand  
 
